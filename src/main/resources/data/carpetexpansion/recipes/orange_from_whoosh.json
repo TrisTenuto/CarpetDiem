@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "carpetexpansion:whoosh_carpets"
+    }
+  ],
+  "result": {
+    "item": "minecraft:orange_carpet",
+    "count": 1
+  }
+}

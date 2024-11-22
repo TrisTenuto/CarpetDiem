@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "carpetexpansion:gingham_carpet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pink_carpet",
+    "count": 1
+  }
+}

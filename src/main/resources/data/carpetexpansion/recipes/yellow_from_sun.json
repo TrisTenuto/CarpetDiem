@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "carpetexpansion:sun_carpet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:yellow_carpet",
+    "count": 1
+  }
+}

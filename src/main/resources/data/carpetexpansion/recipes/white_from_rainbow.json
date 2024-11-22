@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "carpetexpansion:rainbow_carpet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:white_carpet",
+    "count": 1
+  }
+}
