@@ -1,0 +1,6 @@
+{
+  "parent": "carpetexpansion:block/vine_carpet",
+  "textures": {
+    "layer0": "carpetexpansion:item/vine_carpet"
+  }
+}

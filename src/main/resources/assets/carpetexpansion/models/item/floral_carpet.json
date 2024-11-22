@@ -1,0 +1,6 @@
+{
+  "parent": "carpetexpansion:block/floral_carpet",
+  "textures": {
+    "layer0": "carpetexpansion:item/floral_carpet"
+  }
+}

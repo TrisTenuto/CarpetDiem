@@ -1,0 +1,6 @@
+{
+  "parent": "carpetexpansion:block/arcade_carpet",
+  "textures": {
+    "layer0": "carpetexpansion:item/arcade_carpet"
+  }
+}

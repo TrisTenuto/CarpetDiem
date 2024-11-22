@@ -1,0 +1,6 @@
+{
+  "parent": "carpetexpansion:block/rainbow_carpet",
+  "textures": {
+    "layer0": "carpetexpansion:item/rainbow_carpet"
+  }
+}

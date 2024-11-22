@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:purple_carpet"
+    }
+  ],
+  "result": {
+    "item": "carpetexpansion:ripples_carpet",
+    "count": 1
+  }
+}

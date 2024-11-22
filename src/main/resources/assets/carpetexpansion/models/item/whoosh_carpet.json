@@ -1,0 +1,6 @@
+{
+  "parent": "carpetexpansion:block/whoosh_carpet",
+  "textures": {
+    "layer0": "carpetexpansion:item/whoosh_carpet"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "carpetexpansion:block/lines_carpet",
+  "textures": {
+    "layer0": "carpetexpansion:item/lines_carpet"
+  }
+}

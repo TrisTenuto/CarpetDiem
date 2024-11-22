@@ -1,0 +1,6 @@
+{
+  "parent": "carpetexpansion:block/striped_carpet",
+  "textures": {
+    "layer0": "carpetexpansion:item/striped_carpet"
+  }
+}

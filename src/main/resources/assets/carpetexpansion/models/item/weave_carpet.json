@@ -1,0 +1,6 @@
+{
+  "parent": "carpetexpansion:block/weave_carpet",
+  "textures": {
+    "layer0": "carpetexpansion:item/weave_carpet"
+  }
+}

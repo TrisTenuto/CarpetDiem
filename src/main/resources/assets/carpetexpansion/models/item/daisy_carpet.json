@@ -1,0 +1,6 @@
+{
+  "parent": "carpetexpansion:block/daisy_carpet",
+  "textures": {
+    "layer0": "carpetexpansion:item/daisy_carpet"
+  }
+}

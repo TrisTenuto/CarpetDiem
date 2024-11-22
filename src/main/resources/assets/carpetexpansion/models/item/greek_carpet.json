@@ -1,0 +1,6 @@
+{
+  "parent": "carpetexpansion:block/greek_carpet",
+  "textures": {
+    "layer0": "carpetexpansion:item/greek_carpet"
+  }
+}

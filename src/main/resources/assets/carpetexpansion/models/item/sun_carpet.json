@@ -1,0 +1,6 @@
+{
+  "parent": "carpetexpansion:block/sun_carpet",
+  "textures": {
+    "layer0": "carpetexpansion:item/sun_carpet"
+  }
+}

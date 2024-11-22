@@ -1,0 +1,6 @@
+{
+  "parent": "carpetexpansion:block/gingham_carpet",
+  "textures": {
+    "layer0": "carpetexpansion:item/gingham_carpet"
+  }
+}
