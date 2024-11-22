@@ -29,6 +29,8 @@ public class ModBlocks {
             () -> new CarpetBlock(BlockBehaviour.Properties.copy(Blocks.WHITE_CARPET)));
     public static final RegistryObject<Block> FLORAL = registerBlock("floral_carpet",
             () -> new CarpetBlock(BlockBehaviour.Properties.copy(Blocks.WHITE_CARPET)));
+    public static final RegistryObject<Block> FRACTAL = registerBlock("fractal_carpet",
+            () -> new CarpetBlock(BlockBehaviour.Properties.copy(Blocks.WHITE_CARPET)));
     public static final RegistryObject<Block> GINGHAM = registerBlock("gingham_carpet",
             () -> new CarpetBlock(BlockBehaviour.Properties.copy(Blocks.WHITE_CARPET)));
     public static final RegistryObject<Block> GREEK = registerBlock("greek_carpet",

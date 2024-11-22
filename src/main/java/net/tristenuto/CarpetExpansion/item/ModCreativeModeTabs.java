@@ -24,6 +24,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.CROCODILE.get());
                         output.accept(ModBlocks.DAISY.get());
                         output.accept(ModBlocks.FLORAL.get());
+                        output.accept(ModBlocks.FRACTAL.get());
                         output.accept(ModBlocks.GINGHAM.get());
                         output.accept(ModBlocks.GREEK.get());
                         output.accept(ModBlocks.LINES.get());
