@@ -14,9 +14,9 @@ public class ModCreativeModeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, CarpetExpansion.MOD_ID);
 
-    public static final RegistryObject<CreativeModeTab> CARPET_TAB = CREATIVE_MODE_TABS.register("carpet_expansion_tab",
+    public static final RegistryObject<CreativeModeTab> CARPET_TAB = CREATIVE_MODE_TABS.register("carpet_diem_tab",
             () -> CreativeModeTab.builder()
-                    .title(Component.translatable("tab.carpet_expansion_tab"))
+                    .title(Component.translatable("tab.carpet_diem_tab"))
                     .icon(() -> new ItemStack(ModBlocks.ARCADE.get()))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModBlocks.ARCADE.get());
@@ -31,7 +31,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.RAINBOW.get());
                         output.accept(ModBlocks.RIPPLES.get());
                         output.accept(ModBlocks.STRIPED.get());
-                        output.accept(ModBlocks.SUN.get());
+                        output.accept(ModBlocks.RED_SUN.get());
                         output.accept(ModBlocks.VINE.get());
                         output.accept(ModBlocks.WEAVE.get());
                         output.accept(ModBlocks.WHOOSH.get());

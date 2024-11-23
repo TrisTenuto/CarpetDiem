@@ -43,7 +43,7 @@ public class ModBlocks {
             () -> new CarpetBlock(BlockBehaviour.Properties.copy(Blocks.WHITE_CARPET)));
     public static final RegistryObject<Block> STRIPED = registerBlock("striped_carpet",
             () -> new CarpetBlock(BlockBehaviour.Properties.copy(Blocks.WHITE_CARPET)));
-    public static final RegistryObject<Block> SUN = registerBlock("sun_carpet",
+    public static final RegistryObject<Block> RED_SUN = registerBlock("red_sun_carpet",
             () -> new CarpetBlock(BlockBehaviour.Properties.copy(Blocks.WHITE_CARPET)));
     public static final RegistryObject<Block> VINE = registerBlock("vine_carpet",
             () -> new CarpetBlock(BlockBehaviour.Properties.copy(Blocks.WHITE_CARPET)));

@@ -17,11 +17,11 @@ import net.tristenuto.CarpetExpansion.item.ModItems;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
-@Mod("carpetexpansion")
+@Mod("carpetdiem")
 public class CarpetExpansion
 {
     // Define mod id in a common place for everything to reference
-    public static final String MOD_ID = "carpetexpansion";
+    public static final String MOD_ID = "carpetdiem";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
