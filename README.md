@@ -1,2 +1,2 @@
-# CarpetExpansion
+# CarpetDiem
 Have you ever wanted simple patterned carpets in Minecraft but can only find incredibly detailed and artistic mods and resource packs? Then this mod is for you! Adds variants to all the current Minecraft carpet colors with simple repeating patterns that tile so that you can have any size or shape look cohesive. These carpets will add visual interest to your space without distracting from the other decorations. 
