@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "carpetexpansion:vine_carpet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:brown_carpet",
+    "count": 1
+  }
+}
